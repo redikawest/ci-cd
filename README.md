@@ -1,2 +1,6 @@
-# ci-cd
-testing CI CD github actions.
+# About
+Try to create CI CD using github actions.
+
+#Stack
+NodeJs
+ExpressJs
